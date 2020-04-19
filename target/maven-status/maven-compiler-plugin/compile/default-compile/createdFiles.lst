@@ -1,0 +1,7 @@
+local\config\kafka\KafkaProcessor.class
+local\PolicyHandler.class
+local\AcceptPlaced.class
+local\AcceptProcessingRepository.class
+local\AbstractEvent.class
+local\AcceptProcessing.class
+local\Application.class
